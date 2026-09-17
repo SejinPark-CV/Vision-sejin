@@ -1,5 +1,5 @@
 I am a Ph.D. student in the Deep Image Processing Lab, advised by Prof. Seung-Won Jung. I am currently pursuing the Ph.D. degree in Electrical Engineering at Korea University in Seoul, Korea.
-[https://sites.google.com/view/sejinn/](https://sejinpark-cv.github.io/)
+[[https://sites.google.com/view/sejinn/](https://sejinpark-cv.github.io/)](https://sejinpark-cv.github.io/)
 
 <!---
 Vision-sejin/Vision-sejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
